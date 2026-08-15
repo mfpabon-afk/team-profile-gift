@@ -1,8 +1,8 @@
 Equipo de Desarrollo
 
 Integrantes:
-1.Maria Pabon
-2.Juliana Florez
+1.Maria Pabon - Backend
+2.Juliana Florez - Backend
 
 Proyecto:
 Aplicación de perfiles del equipo
