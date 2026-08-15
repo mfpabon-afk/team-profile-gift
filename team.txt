@@ -6,4 +6,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
-Versión: 2.0 - Nueva arquitectura
+Versión: 2.2 - Nueva arquitectura
